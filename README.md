@@ -1,6 +1,5 @@
 ### Hi there 👋
 #### 🤔 About Me?
-- 🕶 An undergraduate student of Soochow University, majoring in Software Engineering.
 - 🤣 Have a keen interest in coding and sports 
 - 👍 Always glad to collaborate and learn something from others
 - 📫 Reach me at deelsilcon@gmail.com 
